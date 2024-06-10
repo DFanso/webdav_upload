@@ -1,6 +1,6 @@
 # WebDAV File Downloader and Uploader Script
 
-###SLT Life Hacks
+### SLT Life Hacks
 
 This script downloads a file from a specified URL, splits it into 500MB parts using 7-Zip, creates a folder on a WebDAV server, and uploads the split parts to that folder.
 
